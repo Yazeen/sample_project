@@ -31,6 +31,7 @@ $(".fa-plus-square").on("click", function() {
 //git remote -v                                    //Check the fetch and push url of git.
 //git remote set-url origin <link>                 //Set the url of ur github directory.
 //git push origin master                           //Upload the files and folders to your github page.
+//git remote add origin <link>                     //add link to set github.
 
 //node <filename.js>                        
 //npm install <filename> -save 
